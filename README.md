@@ -119,3 +119,6 @@ Las herramientas utilizadas dentro de esta plataforma son: <br>
     - Vertex AI: Módulo de aprendizaje supervisado para la realización de Machine Learning.
     - Looker: Módulo para la realización del tablero.
 
+### Render
+
+Render es una plataforma en la nube que ofrece una variedad de servicios para ayudar a los desarrolladores a crear, implementar y escalar aplicaciones web. Para este proyecto utilizamos Render para poder disponibilizar la API con el modelo de machine learning sobre la predicción en el horario que se realiza la consulta de la demanda en el distrito ingresado
