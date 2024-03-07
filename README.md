@@ -1,6 +1,5 @@
-# **HENRY** 
- 
-### PROYECTO FINAL <br>
+# **HENRY PROYECTO FINAL** 
+![Henry Imagen](https://github.com/LeandroHerner/Proyecto_Final/blob/main/imagenes/HEADER-BLOG-NEGRO-01.jpg)
 
 ### MODALIDAD GRUPAL
 
@@ -22,6 +21,7 @@ Para esto, el grupo se ah puesto en el papel de una empresa consultora de Data, 
 
 
 ## CONTEXO DEL PROYECTO
+![Taxis Amarillos](https://github.com/LeandroHerner/Proyecto_Final/blob/main/imagenes/1572460700191.jpg)
 Dada la alta contaminación de CO2, el calentamiento global y el aumento de vechiculos empleados para el transporte de pasajeros la ciudad de Nueva York, ah establecido que para el año 2030, todos los vehiculos de transportes de pasajeros sean eléctricos. 
 De esta forma la Ciudad de NY luchara y buscara generar una reducción de CO2.
 Con las tecnologias actuales, esta alta frecuencia de movimientos tambien genero una gran capacidad de recopilar datos y almacenarlos para luego poder ser analizados. Gracias a esto, la ciudad ofrece en su web información muy valiosa.
