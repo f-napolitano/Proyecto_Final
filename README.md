@@ -17,7 +17,7 @@
 ## INTRODUCCION
 Desde la academia de Henry para el Bootcamp de Data Science, nos han encargado generar un proyecto final en donde nos ponemos en el papel profesional de Data Scientis. Abarcando un proyecto global en equipo de 5 personas, tenemos que brindarle una solución final en donde abarcaremos todos los temas aprendidos hasta la fecha.
 
-Para esto, el grupo se ah puesto en el papel de una empresa consultora de Data, llamada "INSIGHT NOVA". 
+Para esto, el grupo se ha puesto en el papel de una empresa consultora de Data, llamada "INSIGHT NOVA". 
 
 
 ## CONTEXO DEL PROYECTO
