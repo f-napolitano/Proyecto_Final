@@ -8,17 +8,14 @@
 
 **INTEGRANTES:**<br>
 ![Integrantes Imagen](https://github.com/LeandroHerner/Proyecto_Final/blob/main/imagenes/Integrantes.png)
-    - LEANDRO HERNER<br>
-    - LUCAS RAÑA<br>
-    - HORACIO MORAZZO<br>
-    - FEDERICO NAPOLITANO<br>
-    - NICOLAS GUTIERREZ COLL<br>
 
 
 ## INTRODUCCION
 Desde la academia de Henry para el Bootcamp de Data Science, nos han encargado generar un proyecto final en donde nos ponemos en el papel profesional de Data Scientis. Abarcando un proyecto global en equipo de 5 personas, tenemos que brindarle una solución final en donde abarcaremos todos los temas aprendidos hasta la fecha.
 
-Para esto, el grupo se ha puesto en el papel de una empresa consultora de Data, llamada "INSIGHT NOVA". 
+Para esto, el grupo se ha puesto en el papel de una empresa consultora de Data, llamada "INSIGHT NOVA".
+
+![Logo](https://github.com/LeandroHerner/Proyecto_Final/blob/main/imagenes/Insightnova.jpeg)
 
 
 ## CONTEXO DEL PROYECTO
@@ -35,7 +32,7 @@ Encontrar la mejor forma de optimizar los viajes de los vehiculos para obtener m
 
 
 # PROPUESTA
-![Logo](https://github.com/LeandroHerner/Proyecto_Final/blob/main/imagenes/Insightnova.jpeg)
+
 El equipo de "INSIGHT NOVA" tomara los datos de la web proporcioandos por la ciudad de NY, para generar un análisis de sus datos y poder obtener información valiosa para la empresa.
 Para esto, se generara un sistema en el cual cargaremos toda la informacion en Google Cloud, pasara por un proceso de reducción y ETL para tener disponible información limpia y segura a la hora de analizar.
 Para generar todo este proceso se utiliza un stack tecnológico en el cual abarcamos muchas herramientas que permiten el procesamiento y la gestión de grandes volumenes de datos.
